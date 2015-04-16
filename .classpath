@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/osmbonuspack_v5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/osmdroid-android-4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/slf4j-android-1.5.8.jar"/>
+	<classpathentry kind="lib" path="/Users/peiyunli/Downloads/geonames-1.1.12.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
